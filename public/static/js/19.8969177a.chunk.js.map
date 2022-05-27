@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/FormulaAbono.jsx"],"names":["FormulaAbono"],"mappings":"mJAAA,uBAQeA,UANM,WACnB,OACE","file":"static/js/19.8969177a.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst FormulaAbono = () => {\r\n  return (\r\n    <h1>FormulaAbono</h1>\r\n  )\r\n}\r\n\r\nexport default FormulaAbono"],"sourceRoot":""}
